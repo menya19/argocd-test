@@ -10,5 +10,5 @@ spec:
         - name: hello-go
           resources:
             limits:
-              cpu: "1"
+              cpu: "0.5"
               memory: 1Gi
